@@ -349,8 +349,6 @@ int main(int argc, char* argv[])
 #endif
   }
 
-  Output("hello g2marpar/parker-mar/Parker Aldric Mar");
-
   int result = do_main(argc, argv, xreDirectory);
 
   NS_LogTerm();
